@@ -4,7 +4,7 @@ body, html {
 }
 
 .bgimg {
-  background-image:  url("img/IMG_8134.jpg");
+  background-color: darksalmon;
   height: 100%;
   background-position: center;
   background-size: cover;
