@@ -19,7 +19,7 @@ body {
 
 h2 {
 	font-family: 'Catamaran', sans-serif;
-	
+	letter-spacing: 4px;
     font-size: 48px;
     text-transform: uppercase;
     color: #303030;
